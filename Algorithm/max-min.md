@@ -51,7 +51,7 @@
 
 通过这种方式，`X` 可以在最坏情况下最大化其最小收益，从而找到最佳落子位置。
 
-![Max-Min Algorithm](assets/max-min.png)
+![Max-Min Algorithm](../assets/max-min.png)
 
 ## Max-Min 算法在五子棋中的复杂度
 
